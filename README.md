@@ -1,1 +1,1 @@
-# 10-Project-Finix-Template-Html-Css-Bootstrap5
+# Finix-Template
